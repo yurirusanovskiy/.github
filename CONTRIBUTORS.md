@@ -1,1 +1,1 @@
-Iuriy Rusanovschi - iuriyr@juniorz101.org
+Add Iuriy Rusanovschi - iuriyr@juniorz101.org to CONTRIBUTORS.md
